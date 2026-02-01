@@ -1,0 +1,5 @@
+# Supabase Configuration File
+# https://supabase.com/docs/guides/cli/config
+
+[api]
+enabled = true

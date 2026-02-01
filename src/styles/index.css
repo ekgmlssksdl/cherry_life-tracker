@@ -1,0 +1,8 @@
+@import './fonts.css';
+@import './tailwind.css';
+@import './theme.css';
+
+body {
+  background: #fef9f3;
+  min-height: 100vh;
+}
